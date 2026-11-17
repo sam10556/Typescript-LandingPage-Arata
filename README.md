@@ -1,6 +1,6 @@
 # Usarata
 
-A responsive landing page built with React, TypeScript, and Vite for a school project.
+A responsive landing page built with React, TypeScript, and Vite for a school project for my brother.
 
 ## Live Demo
 
